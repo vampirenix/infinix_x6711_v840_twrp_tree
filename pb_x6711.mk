@@ -5,7 +5,7 @@
 #
 
 # Inherit from x6711 device
-$(call inherit-product, device/transsion/X6711/device.mk)
+$(call inherit-product, device/infinix/X6711/device.mk)
 
 # Inherit some common PBRP stuff.
 $(call inherit-product, vendor/pb/config/common.mk)
@@ -13,8 +13,8 @@ $(call inherit-product, vendor/pb/config/common.mk)
 # Product Specifics
 PRODUCT_NAME := pb_X6711
 PRODUCT_DEVICE := X6711
-PRODUCT_BRAND := Transsion
-PRODUCT_MODEL := Transsion X6711
-PRODUCT_MANUFACTURER := Transsion
+PRODUCT_BRAND := Infinix
+PRODUCT_MODEL := Infinix X6711
+PRODUCT_MANUFACTURER := INFINIX
 
 PRODUCT_GMS_CLIENTID_BASE := android-transsion
