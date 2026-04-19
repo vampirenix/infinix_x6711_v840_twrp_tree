@@ -1,0 +1,2 @@
+# device specific vendor props
+ro.product.vendor.device=X6711
