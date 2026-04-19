@@ -11,10 +11,10 @@ $(call inherit-product, device/infinix/X6711/device.mk)
 $(call inherit-product, vendor/pb/config/common.mk)
 
 # Product Specifics
-PRODUCT_NAME := pb_X6711
-PRODUCT_DEVICE := X6711
+PRODUCT_NAME := X6711
+PRODUCT_DEVICE := pb_X6711
 PRODUCT_BRAND := Infinix
 PRODUCT_MODEL := Infinix X6711
-PRODUCT_MANUFACTURER := INFINIX
+PRODUCT_MANUFACTURER := Infinix
 
 PRODUCT_GMS_CLIENTID_BASE := android-transsion
