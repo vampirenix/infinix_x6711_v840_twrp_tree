@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/pb_x6711.mk
+	$(LOCAL_DIR)/twrp_X6711.mk
 
 COMMON_LUNCH_CHOICES := \
 	pb_x6711-eng \
